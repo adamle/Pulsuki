@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "70DD1367-C098-4648-921C-BDD53D0528CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 448,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5DE313AE-D6E8-4799-B5FA-D68D0EA3F200"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B27D36CD-58B6-49CF-8869-224E7692E20B"
+    },
+    {
+      "class": "text",
+      "id": "571054CE-34E5-46BA-B2E7-5F86C8739426"
+    },
+    {
+      "class": "text",
+      "id": "9C74278D-8B20-40E6-A812-B325ECE19E75"
+    }
+  ],
+  "name": "Segment / Bet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

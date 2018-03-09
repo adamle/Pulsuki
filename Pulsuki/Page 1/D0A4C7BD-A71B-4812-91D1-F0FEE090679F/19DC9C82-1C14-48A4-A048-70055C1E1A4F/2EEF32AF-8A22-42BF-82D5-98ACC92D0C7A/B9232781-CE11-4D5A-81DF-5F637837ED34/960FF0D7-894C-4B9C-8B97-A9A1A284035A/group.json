@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "960FF0D7-894C-4B9C-8B97-A9A1A284035A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 141,
+    "x": 519,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F0892250-0F9E-439A-A9D6-6E92F18CBFB6"
+    },
+    {
+      "class": "text",
+      "id": "FD2026F7-2251-4ABF-93FA-F76417399832"
+    },
+    {
+      "class": "text",
+      "id": "D07B1FE5-FC6C-4AB0-90F8-3F9FB7A9A1A5"
+    }
+  ],
+  "name": "Gate 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

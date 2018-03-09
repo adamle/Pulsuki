@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "3A1F4461-346F-4A6F-B30B-B3F1B121B339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 549,
+    "width": 783,
+    "x": 43,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "52B515A0-7142-43AC-B6C8-85A93B6C8D67"
+    },
+    {
+      "class": "group",
+      "id": "896859F2-AD5C-4590-BE82-00D751A696FE"
+    },
+    {
+      "class": "group",
+      "id": "8E315FDD-F2F9-4138-BB0E-1D19B275CEED"
+    },
+    {
+      "class": "group",
+      "id": "EF398140-ADEA-4FFE-9321-A943EBF47B66"
+    },
+    {
+      "class": "group",
+      "id": "0F86EB87-9EB0-45B9-B8C0-7E5DB4C86D4D"
+    },
+    {
+      "class": "group",
+      "id": "039B53B2-D605-4337-871F-865798FBA0DC"
+    },
+    {
+      "class": "group",
+      "id": "C26DCAD7-FBEF-40A0-94C0-5ADC8BEFF027"
+    },
+    {
+      "class": "group",
+      "id": "FD39D568-1F9A-4B30-9405-5517B90DC8AF"
+    },
+    {
+      "class": "group",
+      "id": "DE366E77-4691-4151-A768-2F4DAC1AD1AA"
+    },
+    {
+      "class": "group",
+      "id": "EE1BBF3A-E450-44AE-8151-E6ABF48544D2"
+    },
+    {
+      "class": "group",
+      "id": "FF09B355-404D-4592-BD02-0D457371A668"
+    },
+    {
+      "class": "group",
+      "id": "8D80C0D1-F561-49AD-BCF5-3DB15606DEF7"
+    },
+    {
+      "class": "text",
+      "id": "2924C7C0-8314-475F-8E20-83B21D8E5863"
+    },
+    {
+      "class": "text",
+      "id": "5814DC66-C84F-40E8-A03F-A5BB704C94F4"
+    },
+    {
+      "class": "text",
+      "id": "6CE4BE42-39B5-48A3-8E75-693AF4F9A7A0"
+    },
+    {
+      "class": "text",
+      "id": "036B3D5A-C59D-42CE-84BE-D5ABE97706E5"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

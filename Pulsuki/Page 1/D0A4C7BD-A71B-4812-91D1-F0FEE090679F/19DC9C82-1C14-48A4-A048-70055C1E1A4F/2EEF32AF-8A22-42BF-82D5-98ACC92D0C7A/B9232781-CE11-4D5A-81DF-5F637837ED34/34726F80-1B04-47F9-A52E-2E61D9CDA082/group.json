@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "34726F80-1B04-47F9-A52E-2E61D9CDA082",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 141,
+    "x": 346,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39DAEDC5-4210-4586-A344-52EF780F3BDD"
+    },
+    {
+      "class": "text",
+      "id": "C833FBE1-5E97-4109-954B-2268BD67A188"
+    },
+    {
+      "class": "text",
+      "id": "D24981BE-1B45-42E1-BA54-FFC47BA71AE3"
+    }
+  ],
+  "name": "Gate 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

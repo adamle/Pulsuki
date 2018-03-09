@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "E1AC4FCA-9FAB-444D-A48E-1602AE132C20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 646,
+    "width": 1141,
+    "x": 150,
+    "y": 576
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B13D290A-A69D-4BE2-93CD-539822A51150"
+    },
+    {
+      "class": "group",
+      "id": "3A1F4461-346F-4A6F-B30B-B3F1B121B339"
+    }
+  ],
+  "name": "Pool History",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

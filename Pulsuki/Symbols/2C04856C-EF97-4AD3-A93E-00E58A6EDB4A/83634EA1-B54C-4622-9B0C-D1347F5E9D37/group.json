@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "83634EA1-B54C-4622-9B0C-D1347F5E9D37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "68CD60FE-6EEC-4C13-80A5-3F225419C074"
+    },
+    {
+      "class": "text",
+      "id": "35C4A7D5-5693-427F-8AC6-401B8F5EF075"
+    },
+    {
+      "class": "text",
+      "id": "1E1A8764-C4AA-417A-8507-74C84C6415FD"
+    },
+    {
+      "class": "text",
+      "id": "AADAA804-09A0-434D-9523-0B2861F1AAB6"
+    },
+    {
+      "class": "text",
+      "id": "82EA0668-A9AA-435C-A860-473043148CF5"
+    }
+  ],
+  "name": "Billboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

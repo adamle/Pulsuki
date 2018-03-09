@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7A110427-9C61-4803-ABAF-46DBEA80F1DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 141,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FCCECAE9-43EF-4960-B18B-E52CA726B086"
+    },
+    {
+      "class": "text",
+      "id": "84804AD0-9389-4B6B-BF55-4C1A5FC21454"
+    },
+    {
+      "class": "text",
+      "id": "3711D02D-0B5E-453C-99FE-213E53CC4C00"
+    }
+  ],
+  "name": "Gate 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

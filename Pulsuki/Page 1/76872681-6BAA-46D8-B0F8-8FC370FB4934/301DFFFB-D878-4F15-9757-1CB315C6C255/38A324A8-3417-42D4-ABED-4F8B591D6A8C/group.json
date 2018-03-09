@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "38A324A8-3417-42D4-ABED-4F8B591D6A8C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 1060,
+    "x": 42,
+    "y": 317
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BE6B0BE6-7A00-4B66-A5BA-E8141FFBB4E2"
+    },
+    {
+      "class": "text",
+      "id": "09F71368-65DB-4C48-BB31-5835CA368F83"
+    }
+  ],
+  "name": "Place Bet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
